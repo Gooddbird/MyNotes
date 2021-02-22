@@ -356,4 +356,4 @@ int getpeername(int sockfd, struct sockaddr *peeraddr, socklen_t *addrlen);
 - route delete: 删除
 
 
-![img](../aliexam/images/地址计算.png)
+![img](../images/地址计算.png)
